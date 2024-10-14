@@ -1,3 +1,5 @@
-Here are my solutions to the problem for my first homework assignment. You could find the problems in the PDF pasted below!
+Here are my solutions to the problem for my homework assignment-. You could find the problems in the PDF pasted in the README sections of each folder.
 
-[Homework1.pdf](https://github.com/user-attachments/files/17365704/Homework1.pdf)
+This class is at Mercy University
+
+![Untitled](https://github.com/user-attachments/assets/d3b7c46d-7bcf-480f-8093-7eb9f954fdf9)
