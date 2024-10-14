@@ -1,4 +1,4 @@
-Here are my solutions to the problem for my homework assignment-. You could find the problems in the PDF pasted in the README sections of each folder.
+Solutions to the homeworks assigned in this class. You could find the problems in the PDF pasted in the README sections of each folder.
 
 This class is at Mercy University
 
